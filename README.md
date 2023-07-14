@@ -2,6 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract ErrorHandlingContract {
+
     function requireExample(uint256 x, uint256 y) public pure returns (uint256) {
         require(y != 0, "Division by zero is not allowed");
         return x / y;
