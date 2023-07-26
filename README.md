@@ -1,4 +1,4 @@
-#Smart Contract Project
+# Smart Contract Project
 
 ## Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This is a smart contract that implements the require(), assert() and revert() statements.
